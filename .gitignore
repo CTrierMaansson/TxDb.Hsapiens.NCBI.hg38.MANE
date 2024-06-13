@@ -1,5 +1,4 @@
 .Rhistory
 .Rbuildignore
-.gitignore
 .Rproj.user
-TxDb.Hsapiens.NCBI.hg38.MANE.Rproj
+.Rproj
