@@ -1,5 +1,5 @@
-.Rproj.user
 .Rhistory
-.RData
-.Ruserdata
-.Rproj
+.Rbuildignore
+.gitignore
+.Rproj.user
+TxDb.Hsapiens.NCBI.hg38.MANE.Rproj
