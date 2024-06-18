@@ -4,7 +4,6 @@ Description: Exposes an annotation databases generated from Matched Annotation f
 Version: 0.99
 Author: Christoffer Trier Maansson <ctm@clin.au.dk> [cre]
 Maintainer: Christoffer Trier Maansson <ctm@clin.au.dk>
-Depends: txdbmaker (>= 1.0.0)
 Imports: AnnotationDbi
 License: Artistic-2.0
 organism: Homo sapiens
