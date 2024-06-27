@@ -2,7 +2,7 @@
 # TxDb.Hsapiens.NCBI.hg38.MANE
 ## Description
 ## Installation
-The package is installed directly from GitHub using 'devtools'
+The package is installed directly from GitHub using `devtools`
 ```R
 if (!require(devtools)) install.packages('devtools')
 library(devtools)
