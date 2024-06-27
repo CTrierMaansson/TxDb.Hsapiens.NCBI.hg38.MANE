@@ -2,3 +2,12 @@
 # TxDb.Hsapiens.NCBI.hg38.MANE
 ## Description
 ## Installation
+The package is installed directly from GitHub using 'devtools'
+```R
+if (!require(devtools)) install.packages('devtools')
+library(devtools)
+
+devtools::install_github("CTrierMaansson/TxDb.Hsapiens.NCBI.hg38.MANE")
+TxDb_MANE <- TxDb.Hsapiens.NCBI.hg38.MANE::TxDb.Hsapiens.NCBI.hg38.MANE
+
+```
