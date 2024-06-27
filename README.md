@@ -1,6 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCTrierMaansson%2FTxDb.Hsapiens.NCBI.hg38.MANE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # TxDb.Hsapiens.NCBI.hg38.MANE
 ## Description
+A [TxDb](https://bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.html) object to be used for genetic analysis in R. 
+The object suited to be used as any TxDb object which can be explored with different [Bioconductor]() packages, including [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html).
+## Resources
+The TxDb object contains 
 ## Installation
 The package is installed directly from GitHub using `devtools`
 ```R
