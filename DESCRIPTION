@@ -1,7 +1,7 @@
 Package: TxDb.Hsapiens.NCBI.hg38.MANE
 Title: Annotation package for TxDb object(s)
 Description: Exposes an annotation databases generated from Matched Annotation from the NCBI and EMBL-EBI (MANE) by exposing these as TxDb objects
-Version: 0.99
+Version: 1.0.0
 Author: Christoffer Trier Maansson <ctm@clin.au.dk> [cre]
 Maintainer: Christoffer Trier Maansson <ctm@clin.au.dk>
 Imports: AnnotationDbi
