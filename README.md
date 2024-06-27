@@ -8,7 +8,7 @@ TxDb.Hsapiens.NCBI.hg38.MANE contains transcript information from the [Matched A
 ## Resources
 The .gtf file used to create the package was downloaded from [NCBI](https://ftp.ncbi.nlm.nih.gov/refseq/MANE/MANE_human/release_1.3/) and was made into a TxDb object using [`txdbmaker`](https://www.bioconductor.org/packages/release/bioc/html/txdbmaker.html). 
 
-The MANE project is described by [Morales et al. 2022, Nature](https://www.nature.com/articles/s41586-022-04558-8).
+The MANE project is described in [Morales et al. 2022, Nature](https://www.nature.com/articles/s41586-022-04558-8).
 
 ## Installation
 The package is installed directly from GitHub using `devtools`
@@ -20,3 +20,5 @@ devtools::install_github("CTrierMaansson/TxDb.Hsapiens.NCBI.hg38.MANE")
 TxDb_MANE <- TxDb.Hsapiens.NCBI.hg38.MANE::TxDb.Hsapiens.NCBI.hg38.MANE
 
 ```
+## Citation
+Please site this package as
