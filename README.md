@@ -3,8 +3,9 @@
 ## Description
 A [TxDb](https://bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.html) object to be used for genetic analysis in R. 
 The object suited to be used as any TxDb object which can be explored with different [Bioconductor](https://bioconductor.org/) packages, including [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html).
+TxDb.Hsapiens.NCBI.hg38.MANE contains transcript information from the [Matched Annotation from NCBI and EMBL-EBI (MANE) project](https://www.ncbi.nlm.nih.gov/refseq/MANE/) which collects information from both the NCBI RefSeq and the EMBL-EBi Ensembl/GENCODE projects. The dataset contains information from representative protein coding transcripts and combines both transcript and gene identifiers.
 ## Resources
-The TxDb object contains 
+The .gtf file used to create the package was downloaded from [NCBI](https://ftp.ncbi.nlm.nih.gov/refseq/MANE/MANE_human/release_1.3/) and was made into a TxDb object using [`txdbmaker`](https://www.bioconductor.org/packages/release/bioc/html/txdbmaker.html)
 ## Installation
 The package is installed directly from GitHub using `devtools`
 ```R
