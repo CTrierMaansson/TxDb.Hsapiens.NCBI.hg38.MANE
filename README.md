@@ -2,7 +2,7 @@
 # TxDb.Hsapiens.NCBI.hg38.MANE
 ## Description
 A [TxDb](https://bioconductor.org/packages/release/bioc/vignettes/GenomicFeatures/inst/doc/GenomicFeatures.html) object to be used for genetic analysis in R. 
-The object suited to be used as any TxDb object which can be explored with different [Bioconductor]() packages, including [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html).
+The object suited to be used as any TxDb object which can be explored with different [Bioconductor](https://bioconductor.org/) packages, including [GenomicFeatures](https://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html).
 ## Resources
 The TxDb object contains 
 ## Installation
