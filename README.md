@@ -21,4 +21,4 @@ TxDb_MANE <- TxDb.Hsapiens.NCBI.hg38.MANE::TxDb.Hsapiens.NCBI.hg38.MANE
 
 ```
 ## Citation
-Please site this package as
+Please site this package as Trier Maansson, C. (2024). TxDb.Hsapiens.NCBI.hg38.MANE (Version 1.0.0) [Computer software]. https://github.com/CTrierMaansson/TxDb.Hsapiens.NCBI.hg38.MANE
